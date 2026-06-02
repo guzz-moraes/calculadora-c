@@ -51,5 +51,7 @@ int main()
         scanf(" %c", &continuar);
     }
 
+    printf("\nFeito Por Gustavo Moraes Orlando");
+
     return 0;
 }
